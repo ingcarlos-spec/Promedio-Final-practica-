@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Promedio Final (practica)": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
